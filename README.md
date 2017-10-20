@@ -10,5 +10,5 @@ This project was originally developed under the environment:
  * Debian GNU/Linux 7 + Apache 2.4.23
 
 Team Member:
-------------------
+------------
 Zihua Liu, Yuren Zhong, Ziqi Zhang
