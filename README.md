@@ -8,7 +8,3 @@ This project was originally developed under the environment:
  * Windows 7 + pycharm
  * iOS 10 + swift 3
  * Debian GNU/Linux 7 + Apache 2.4.23
-
-Team Member:
-------------
-Zihua Liu, Yuren Zhong, Ziqi Zhang
